@@ -56,7 +56,8 @@ O Analisador Fundamentalista PRO faz parte de uma iniciativa maior, sendo constr
 
 3.  **Instale as Dependências:**
     ```bash
-    pip install -r requirements.txt
+    pip install -r requirements.txt 
+    pip install -r requirements_pinned.txt
     ```
 
 4.  **Configure a Chave API do Finnhub (Opcional, mas recomendado para funcionalidades completas):**
