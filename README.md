@@ -28,7 +28,7 @@ O Analisador Fundamentalista PRO faz parte de uma iniciativa maior, sendo constr
 
 ## Tecnologias Utilizadas
 
-* **Python 3**
+* **Python 3.12.3**
 * **Streamlit**: Para a interface web.
 * **aiohttp**: Para requisições HTTP assíncronas ao Fundamentus.
 * **BeautifulSoup4**: Para parsing do HTML.
