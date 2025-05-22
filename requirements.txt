@@ -1,0 +1,9 @@
+streamlit
+aiohttp
+beautifulsoup4
+requests
+yfinance
+finnhub-python
+pandas
+plotly
+pygooglenews
